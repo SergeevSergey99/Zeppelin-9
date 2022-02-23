@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595b6e687c9383247a02ecab226a472d, type: 3}
+  m_Name: Mistress
+  m_EditorClassIdentifier: 
+  color: {r: 0.6886792, g: 0.11369702, b: 0.5350237, a: 1}
+  portret: {fileID: 4974505834541648915, guid: 7d592c1fa2f0bc1438039ad3d35653eb, type: 3}
+  poses:
+  - poseName: 1
+    sprite: {fileID: 21300000, guid: 4bd818c6a0b352544b877b44d5e6c537, type: 3}
+  - poseName: 2
+    sprite: {fileID: 21300000, guid: cbbf503ba1c8db8428a129ce75074e06, type: 3}
+  - poseName: 3
+    sprite: {fileID: 21300000, guid: e0da4c795d428fb42994c52f55d9447b, type: 3}

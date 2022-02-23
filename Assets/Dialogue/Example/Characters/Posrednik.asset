@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595b6e687c9383247a02ecab226a472d, type: 3}
+  m_Name: Posrednik
+  m_EditorClassIdentifier: 
+  color: {r: 0.504717, g: 0.6449343, b: 1, a: 1}
+  portret: {fileID: 3966916624580539009, guid: db41375cb7c11b74e9d33890a2c42a9e, type: 3}
+  poses:
+  - poseName: 1
+    sprite: {fileID: 21300000, guid: b0308d3ff756f2a44a2c539306147a99, type: 3}
+  - poseName: 2
+    sprite: {fileID: 21300000, guid: 008aa59e9d0bd3147a6ab2176da552c5, type: 3}
+  - poseName: 3
+    sprite: {fileID: 21300000, guid: f36b390d245058a409fca0dda61460f6, type: 3}
+  - poseName: 4
+    sprite: {fileID: 21300000, guid: c22f35de1c628ce4a9c4eb15c475f535, type: 3}
+  - poseName: 5
+    sprite: {fileID: 21300000, guid: 845923adb2effde48a20b25f5346d3e3, type: 3}
+  - poseName: Normal
+    sprite: {fileID: 21300000, guid: b0308d3ff756f2a44a2c539306147a99, type: 3}
